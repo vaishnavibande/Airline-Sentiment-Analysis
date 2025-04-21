@@ -95,4 +95,4 @@ cd airline-sentiment-analysis-nlp/app
 pip install -r requirements.txt  # Python 3.8+ required
 
 # Launch Streamlit app
-streamlit run app.py (make sure to update the sentiment_model & tfidf_vectorizer path)
+streamlit run app.py         #make sure to update the sentiment_model & tfidf_vectorizer path
